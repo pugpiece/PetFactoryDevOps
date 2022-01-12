@@ -44,6 +44,14 @@ public class BaseEntity implements Serializable {
 
 	private Integer forTest4;
 
+	private Integer forTest5;
+
+	private Integer forTest6;
+
+	private Integer forTest7;
+
+	private Integer forTest8;
+
 	public Integer getId() {
 		return id;
 	}
