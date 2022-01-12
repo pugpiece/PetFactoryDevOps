@@ -36,17 +36,13 @@ public class BaseEntity implements Serializable {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
 
-	private Integer forTest;
+	private Integer test;
 
-	private Integer forTest2;
+	private Integer test2;
 
-	private Integer forTest3;
+	private Integer test3;
 
-	private Integer forTest4;
-
-	private Integer forTest5;
-
-	private Integer forTest6;
+	private Integer test4;
 
 	public Integer getId() {
 		return id;
