@@ -38,8 +38,6 @@ public class BaseEntity implements Serializable {
 
 	private Integer test;
 
-	private Integer test;
-
 	public Integer getId() {
 		return id;
 	}
